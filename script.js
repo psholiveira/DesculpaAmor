@@ -1,3 +1,4 @@
+// Frases dentro do CARD
 const nomeDela = "";
 const frases = [
     "Motivo oficial: sentir sua falta dói mais que admitir que eu errei.",
@@ -8,7 +9,7 @@ const frases = [
     "Se arrependimento queimasse, dava pra incendiar uma cidade inteira só com o meu.",
 ];
 
-// --------- CÓDIGO ---------
+// Codigo
 const phraseElement = document.getElementById("phrase");
 const btnYes = document.getElementById("btnYes");
 const btnNo = document.getElementById("btnNo");
